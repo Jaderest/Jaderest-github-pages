@@ -1,8 +1,25 @@
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
 title: Jaderest's Blog
 author: Jaderest
-description: >- # this means to ignore newlines until "baseurl:"
-  Jaderest's Blog which used to record my learning notes and thoughts.
+
 show_downloads: false
+
+# 导航栏链接
+# header_pages:
+#   - about.md
+#   - projects.md
+#   - publications.md
+#   - contact.md
+
+# 博客的社交媒体信息
+social_links:
+  email: jaderest233@outlook.com
+  github: Jaderest
+
+# 评论系统
+disqus:
+  shortname: jaderest
