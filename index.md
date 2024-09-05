@@ -1,8 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome!
 ---
 
-# Hello world!
-- this is a test page created by Jaderest
-- this is a test page created by Jaderest
-  - this is a test page created by Jaderest
+`this is my main page`
