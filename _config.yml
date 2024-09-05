@@ -1,4 +1,4 @@
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
@@ -6,7 +6,7 @@ plugins:
 title: Jaderest's Blog
 author: Jaderest
 
-show_downloads: false
+show_downloads: true
 
 # 导航栏链接
 # header_pages:
