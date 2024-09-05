@@ -1,10 +1,10 @@
-theme: minimal
+theme: midnight
 
 
 title: Jaderest's Blog
 author: Jaderest
 
-show_downloads: true
+# show_downloads: true
 
 # 导航栏链接
 # header_pages:
@@ -14,10 +14,10 @@ show_downloads: true
 #   - contact.md
 
 # 博客的社交媒体信息
-social_links:
-  email: jaderest233@outlook.com
-  github: Jaderest
+# social_links:
+#   email: jaderest233@outlook.com
+#   github: Jaderest
 
 # 评论系统
-disqus:
-  shortname: jaderest
+# disqus:
+#   shortname: jaderest
